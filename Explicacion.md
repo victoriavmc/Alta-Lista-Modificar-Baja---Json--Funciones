@@ -6,7 +6,7 @@ Se utilizo Json.
 Lo que realiza estos archivos es:
 Alta, Consulta, Muestra, Modificación y Baja.
 
-#######################################################################################################################################################################
+##################################################################################################
                                                     WORD INTRODUCTORIO DONDE SE EXPLICA:
 Introducción
 Tema: “Sistema de Planilla de Datos Médicos”
