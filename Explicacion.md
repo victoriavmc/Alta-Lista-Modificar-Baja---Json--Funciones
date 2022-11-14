@@ -8,7 +8,7 @@ Alta, Consulta, Muestra, Modificación y Baja.
 
 ######################################################################################################
 
-WORD INTRODUCTORIO DONDE SE EXPLICA:
+                                         WORD INTRODUCTORIO DONDE SE EXPLICA:
 
 Introducción
 Tema: “Sistema de Planilla de Datos Médicos”
@@ -32,12 +32,13 @@ Clasificación de los datos según un tipo específico que se encuentran el .JSO
 Lograr una buena escalabilidad en el programa realizado.
 Diseñar funciones especiales con el objetivo de optimizar el código.
 Organizar la realización de pruebas que verifiquen el correcto funcionamiento del programa y el alcance de este con respecto a los requisitos solicitados.
- 
+
 Desarrollo del tema
 Herramientas y tecnologías utilizadas.
 Para codificar se utilizó el editor de código Visual Studio Code. El lenguaje empleado fue Python y el formato JSON.
-Para el desarrollo del trabajo, se realizó primero una selección de una problemática para poder implementar lo requerido por la materia para el trabajo. Desarrollando un “Sistema de Planilla de Datos Médicos” 
-El programa con el fin de poder administrar datos de los médicos que se encuentran realizando su residencia en distintos hospitales de la provincia, cada uno con distintas especialidades. 
+Para el desarrollo del trabajo, se realizó primero una selección de una problemática para poder implementar lo requerido por la materia para el trabajo.
+Desarrollando un “Sistema de Planilla de Datos Médicos” 
+El programa con el fin de poder administrar datos de los médicos que se encuentran realizando su residencia en distintos hospitales de la provincia, cada uno con distintas especialidades.
 El programa cuenta con varias funciones para utilizar los datos de los MÉDICOS.
 Una vez definida la problemática se empezó a listar los requerimientos del programa, además de armar una estructura básica para organizar la modalidad de funcionamiento, para ello, se crearon 4 archivos en Visual Studio Code.
 El primer archivo, nombrado “PlanilladeMedicos”, tiene un formato JSON, ya que en él se almacenarán los datos de cada médico que se ingrese al programa en un diccionario y, a su vez, cada diccionario estará dentro de una lista global llamada “listaMedicos”.
