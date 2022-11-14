@@ -6,8 +6,10 @@ Se utilizo Json.
 Lo que realiza estos archivos es:
 Alta, Consulta, Muestra, Modificación y Baja.
 
-##################################################################################################
-                                                    WORD INTRODUCTORIO DONDE SE EXPLICA:
+######################################################################################################
+
+WORD INTRODUCTORIO DONDE SE EXPLICA:
+
 Introducción
 Tema: “Sistema de Planilla de Datos Médicos”
 Aplicación de contenidos desarrollados en la materia “Programación I”. Enfocado para realizar un programa llamado “Sistema de Planilla de Datos Médicos”, en el lenguaje Python, con un archivo de funciones, menú y también se utiliza un formato ligero de intercambio de datos; un archivo “.JSON”.
@@ -50,5 +52,5 @@ En el caso de la modificación de datos se realizó una función llamada “Modi
 Con respecto a la eliminación de datos, esta llama a la función “seguro()” que pide al usuario ingresar el DNI del médico que desea sacar de la lista global que verifica que existe dicho dato y muestra la información contenida dentro del diccionario del médico al usuario para posteriormente preguntar si está seguro de continuar con las acción, en caso de ser positiva la respuesta ingresada se retorna a la función principal “eliminarDatos()” para nuevamente realizar la búsqueda en la lista global y utilizar el método “remove” para eliminar todos los datos del médico.
 Para finalizar, la función “mostrarTodoslosMedicos()” que corresponde a la opción 6, esta posee un for para recorrer cada uno de los diccionarios de cada médico en la lista global para poder devolver todos esos datos al usuario que lo requiera.
 
-##############################################################################################################################################################################################################################################################################################################################################################################################################################################################
+################################################################################################################################
                                                    
